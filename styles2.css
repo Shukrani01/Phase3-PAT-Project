@@ -1,0 +1,10 @@
+/*
+	Comment
+*/
+
+a { /* Comment */ color: /* Comment */ Red; }
+
+.wrapper {
+	width: 1000px;
+	margin: 0 auto
+}
